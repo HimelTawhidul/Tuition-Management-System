@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|e:\\spring 2026\\oop2 c#\\nkh_final\\nkh_final\\nkh tution\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|e:\\spring 2026\\oop2 c#\\nkh_final\\nkh_final\\nkh tution\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|e:\\spring 2026\\oop2 c#\\nkh_final\\nkh_final\\nkh tution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\nkh tution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\nkh tution\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|e:\\spring 2026\\oop2 c#\\nkh_final\\nkh_final\\nkh tution\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\nkh tution\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|e:\\spring 2026\\oop2 c#\\nkh_final\\nkh_final\\nkh tution\\class\u0026sec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\class\u0026sec.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|e:\\spring 2026\\oop2 c#\\nkh_final\\nkh_final\\nkh tution\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\nkh tution\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|e:\\spring 2026\\oop2 c#\\nkh_final\\nkh_final\\nkh tution\\class\u0026sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\class\u0026sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|e:\\spring 2026\\oop2 c#\\nkh_final\\nkh_final\\nkh tution\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|e:\\spring 2026\\oop2 c#\\nkh_final\\nkh_final\\nkh tution\\function\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F142135-071E-2130-D520-A6185C5FA4C9}|NKH Tution\\NKH Tution.csproj|solutionrelative:nkh tution\\function\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attendence.cs",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Attendence.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\Attendence.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Attendence.cs",
+              "RelativeToolTip": "NKH Tution\\Attendence.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowIQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:45:21.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Login.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\Login.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Login.cs",
+              "RelativeToolTip": "NKH Tution\\Login.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:51:06.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Payment.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\Payment.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Payment.cs [Design]",
+              "RelativeToolTip": "NKH Tution\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:55:45.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Login.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\Login.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Login.cs [Design]",
+              "RelativeToolTip": "NKH Tution\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:12:25.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Payment.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\Payment.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Payment.cs",
+              "RelativeToolTip": "NKH Tution\\Payment.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAYwBcBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:52:52.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentManagement.cs",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\StudentManagement.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\StudentManagement.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\StudentManagement.cs",
+              "RelativeToolTip": "NKH Tution\\StudentManagement.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAywMUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:49:21.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class\u0026Sec.Designer.cs",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Class\u0026Sec.Designer.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\Class\u0026Sec.Designer.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Class\u0026Sec.Designer.cs",
+              "RelativeToolTip": "NKH Tution\\Class\u0026Sec.Designer.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAAAF0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:54:06.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Attendence.cs [Design]",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Attendence.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\Attendence.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Attendence.cs [Design]",
+              "RelativeToolTip": "NKH Tution\\Attendence.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:45:44.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashbord.cs",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Dashbord.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\Dashbord.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Dashbord.cs",
+              "RelativeToolTip": "NKH Tution\\Dashbord.cs",
+              "ViewState": "AgIAAF8AAADgb2ZmZiYiwG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:36:08.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\User.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\User.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\User.cs",
+              "RelativeToolTip": "NKH Tution\\User.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAswNkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:30:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentManagement.cs [Design]",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\StudentManagement.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\StudentManagement.cs",
+              "ToolTip": "C:\\Users\\Himel Tawhidul\\Downloads\\NKH_Final\\NKH Tution\\StudentManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T00:38:36.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class\u0026Sec.cs",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Class\u0026Sec.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\Class\u0026Sec.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Class\u0026Sec.cs",
+              "RelativeToolTip": "NKH Tution\\Class\u0026Sec.cs",
+              "ViewState": "AgIAACUAAACAQDMzMzMJwDMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:21:32.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Function.cs",
+              "DocumentMoniker": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Function\\Function.cs",
+              "RelativeDocumentMoniker": "NKH Tution\\Function\\Function.cs",
+              "ToolTip": "E:\\Spring 2026\\OOP2 C#\\NKH_Final\\NKH_Final\\NKH Tution\\Function\\Function.cs",
+              "RelativeToolTip": "NKH Tution\\Function\\Function.cs",
+              "ViewState": "AgIAAAsAAACQzczMzIwnwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:27:45.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
