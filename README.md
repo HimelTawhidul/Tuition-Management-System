@@ -1,6 +1,6 @@
-**NKH TUITION MANAGEMENT SYSTEM - SETUP INSTRUCTIONS**
+NKH TUITION MANAGEMENT SYSTEM - SETUP INSTRUCTIONS
+---------------------------------------------------
 STEPS:
-
 STEP 1: Create the Database
    - Open SQL Server Management Studio (SSMS)
    - Connect to (LocalDB)\MSSQLLocalDB
