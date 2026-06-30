@@ -24,9 +24,9 @@ STEP 3: Build & Run
 
   DEFAULT LOGIN:
   
-  Username: admin
+   Username: admin
   
-  Password: admin123
+   Password: admin123
 
 
 WHAT'S BEEN FIXED / ADDED:
