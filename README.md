@@ -1,4 +1,29 @@
-NKH TUITION MANAGEMENT SYSTEM - SETUP INSTRUCTIONS
+**NKH TUITION MANAGEMENT SYSTEM - SETUP INSTRUCTIONS**
+STEPS:
+
+STEP 1: Create the Database
+   - Open SQL Server Management Studio (SSMS)
+   - Connect to (LocalDB)\MSSQLLocalDB
+   - Create a new database named: NKHDB
+     OR attach your existing NKHDB.mdf file
+   - Run the file: NKH_Database_Setup.sql
+     (This creates all tables + seeds admin user and classes)
+
+STEP 2: Update Connection String
+   - Open: NKH Tution/Function/Function.cs
+   - Find the ConStr variable
+   - Update the path to your NKHDB.mdf file:
+     AttachDbFilename="C:\path\to\your\NKHDB.mdf"
+
+STEP 3: Build & Run
+   - Open "NKH Tution.slnx" in Visual Studio 2022+
+   - Press Ctrl+Shift+B to build
+   - Press F5 to run
+   - Login with: admin / admin123
+
+  DEFAULT LOGIN
+  Username: admin
+  Password: admin123
 
 
 WHAT'S BEEN FIXED / ADDED:
@@ -54,28 +79,4 @@ WHAT'S BEEN FIXED / ADDED:
    - Console window is hidden on startup (no black terminal)
    - Closing the app closes all windows cleanly
 
-  SETUP STEPS
-
-STEP 1: Create the Database
-   - Open SQL Server Management Studio (SSMS)
-   - Connect to (LocalDB)\MSSQLLocalDB
-   - Create a new database named: NKHDB
-     OR attach your existing NKHDB.mdf file
-   - Run the file: NKH_Database_Setup.sql
-     (This creates all tables + seeds admin user and classes)
-
-STEP 2: Update Connection String
-   - Open: NKH Tution/Function/Function.cs
-   - Find the ConStr variable
-   - Update the path to your NKHDB.mdf file:
-     AttachDbFilename="C:\path\to\your\NKHDB.mdf"
-
-STEP 3: Build & Run
-   - Open "NKH Tution.slnx" in Visual Studio 2022+
-   - Press Ctrl+Shift+B to build
-   - Press F5 to run
-   - Login with: admin / admin123
-
-  DEFAULT LOGIN
-  Username: admin
-  Password: admin123
+  
