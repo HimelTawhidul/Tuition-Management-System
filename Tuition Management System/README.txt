@@ -1,5 +1,5 @@
 =======================================================
-  NKH TUTION MANAGEMENT SYSTEM - SETUP INSTRUCTIONS
+  NKH TUTITION MANAGEMENT SYSTEM - SETUP INSTRUCTIONS
 =======================================================
 
 WHAT'S BEEN FIXED / ADDED:
@@ -24,12 +24,12 @@ WHAT'S BEEN FIXED / ADDED:
 4. CLASS & SECTION
    - Add class + section to DB
    - Delete class (checks for students first)
-   - Shows ClassID, ClassName, SectionID, SectionName in grid
+   - Shows ClassID, ClassName, SectionID, SectionName in the grid
    - Logout works
 
 5. PAYMENT
    - Shows "Missing Data" if any field is empty
-   - Validates StudentID exists
+   - Validates that StudentID exists
    - Shows payment history: StudentID, Name, Date, TotalFees,
      Payable, Due (TotalFees - Payable)
    - Search by StudentID filters history
@@ -37,12 +37,12 @@ WHAT'S BEEN FIXED / ADDED:
 
 6. ATTENDANCE
    - Loads Class/Section from DB
-   - Creates session in AttendenceTbl
+   - Creates session in AttendanceTbl
    - Opens per-student entry form (Present/Absent/Late)
    - Shows summary: SessionID, Date, Class, Section,
      Total Students, Present count, Absent count
-   - Export button generates CSV for each session
-   - Data persists in DB
+   - Export button generates a CSV for each session
+   - Data persists in the DB
    - Logout works
 
 7. USER MANAGEMENT
