@@ -22,9 +22,8 @@ STEP 3: Build & Run
    - Press F5 to run
    - Login with: admin / admin123
 
-  DEFAULT LOGIN
+  DEFAULT LOGIN:
   Username: admin
-  
   Password: admin123
 
 
